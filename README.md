@@ -13,7 +13,7 @@
 - 🎯 Em busca da minha primeira oportunidade como Desenvolvedor ou Estagiário em Tecnologia
 - 📚 Estudando diariamente desenvolvimento Full Stack
 - 💡 Interesse em IA, Automação, APIs, SaaS e Engenharia de Software
-- ⚽ Gosto de desenvolver projetos relacionados ao futebol e análise de dados
+- 💡 Gosto de desenvolver projetos relacionados á resolução de problemas reais
 - 🌱 Sempre aprendendo novas tecnologias
 
 ---
